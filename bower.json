@@ -1,0 +1,27 @@
+{
+  "name": "jquery-import",
+  "homepage": "https://github.com/SephVelut/dash-sidemenu",
+  "authors": [
+    "seph <sephvelut@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "blockUI": "blockui#*",
+    "jquery.cookie": "jquery-cookie#^1.4.1",
+    "jquery": "^2.2.3",
+    "jquery.easy-pie-chart": "easypie#^2.1.6",
+    "jquery-minicolors": "^2.2.4",
+    "jquery-advanced-news-ticker": "https://github.com/risq/jquery-advanced-news-ticker.git#1.0.0",
+    "jquery-ui": "^1.11.4",
+    "waypoints": "^4.0.0"
+  }
+}
