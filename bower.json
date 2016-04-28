@@ -23,6 +23,6 @@
     "jquery-advanced-news-ticker": "https://github.com/risq/jquery-advanced-news-ticker.git#1.0.0",
     "jquery-ui": "^1.11.4",
     "waypoints": "^4.0.0",
-    "Counter-Up": "counter-up#^1.0.0"
+    "Counter-Up": "https://github.com/bfintal/Counter-Up.git#^1.0.0"
   }
 }
